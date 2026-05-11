@@ -1,12 +1,13 @@
 🎭 Meme Generator
 A simple and fun Meme Generator built using JavaScript, where memes are fetched dynamically using the Fetch API, handled with Promises, and displayed instantly on the webpage.
+
 This project helped me practice:
 
-JavaScript asynchronous concepts
-Fetching API data
-Promise handling
-DOM manipulation
-Event handling
+  JavaScript asynchronous concepts
+  Fetching API data
+  Promise handling
+  DOM manipulation
+  Event handling
 
 🚀 Features
 
