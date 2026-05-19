@@ -6,7 +6,7 @@ This project helped me practice:
   JavaScript asynchronous concepts
   Fetching API data
   Promise handling
-  DOM manipulation
+  DOM manipulation  
   Event handling
 
 🚀 Features
